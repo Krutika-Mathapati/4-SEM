@@ -1,2 +1,2 @@
 # 4-SEM
-This is my first repository. 
+All my notes of 4th Sem are available here.
